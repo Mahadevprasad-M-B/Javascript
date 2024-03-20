@@ -1,0 +1,11 @@
+.yellow-btn{
+  background: yellow;
+  border-color: red;
+  border-style: solid;
+}
+
+.orange-btn {
+  background-color: orange;
+  border-color: red;
+  border-style: solid;
+}
